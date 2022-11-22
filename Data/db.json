@@ -1,7 +1,7 @@
 {
     "products": [
       {
-        "productID": 1,
+        "id": 1,
         "name": "Zoey Ring Set",
         "price": 6550,
         "stock": 7,
@@ -9,7 +9,7 @@
         "variant": ["Silver", "Gold", "Rosegold"]
       },
       {
-        "productID": 2,
+        "id": 2,
         "name": "Lyra Hoops",
         "price": 4550,
         "stock": 10,
@@ -17,7 +17,7 @@
         "variant": ["Gold"]
       },
       {
-        "productID": 3,
+        "id": 3,
         "name": "Sizzle Ring Set",
         "price": 8590,
         "stock": 8,
@@ -25,7 +25,7 @@
         "variant": ["Gold", "Rosegold"]
       },
       {
-        "productID": 4,
+        "id": 4,
         "name": "Cora Necklace",
         "price": 6500,
         "stock": 10,
@@ -33,7 +33,7 @@
         "variant": ["Silver", "Gold", "Rosegold"]
       },
       {
-        "productID": 5,
+        "id": 5,
         "name": "Regal Set",
         "price": 9500,
         "stock": 5,
@@ -41,7 +41,7 @@
         "variant": ["Silver", "Gold"]
       },
       {
-        "productID": 6,
+        "id": 6,
         "name": "Knotty Set",
         "price": 7590,
         "stock": 10,
@@ -49,7 +49,7 @@
         "variant": ["Silver", "Gold"]
       },
       {
-        "productID": 7,
+        "id": 7,
         "name": "Charmin' Set",
         "price": 10550,
         "stock": 6,
@@ -57,7 +57,7 @@
         "variant": ["Silver", "Gold"]
       },
       {
-        "productID": 8,
+        "id": 8,
         "name": "Herb Ring Set",
         "price": 8500,
         "stock": 0,
@@ -65,7 +65,7 @@
         "variant": ["Silver", "Gold"]
       },
       {
-        "productID": 9,
+        "id": 9,
         "name": "Minimal Hoops",
         "price": 3550,
         "stock": 10,
@@ -74,7 +74,7 @@
       },
 
       {
-        "productID": 10,
+        "id": 10,
         "name": "Malia Minimal Set",
         "price": 9500,
         "stock": 5,
@@ -82,7 +82,7 @@
         "variant": ["Silver", "Gold", "Rosegold"]
       },
       {
-        "productID": 11,
+        "id": 11,
         "name": "Maia Set",
         "price": 9500,
         "stock": 5,
@@ -90,7 +90,7 @@
         "variant": ["Silver", "Gold", "Rosegold"]
       },
       {
-        "productID": 12,
+        "id": 12,
         "name": "Layla Necklace",
         "price": 9500,
         "stock": 0,
