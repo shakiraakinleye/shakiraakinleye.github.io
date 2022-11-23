@@ -6,7 +6,7 @@
         "price": 6550,
         "stock": 7,
         "imageUrl": "images/zoey-ring-set.jpg",
-        "variant": ["Silver", "Gold", "Rosegold"]
+        "variants": ["Silver", "Gold", "Rosegold"]
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "price": 4550,
         "stock": 10,
         "imageUrl": "images/lyra-hoops.jpg",
-        "variant": ["Gold"]
+        "variants": ["Gold"]
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "price": 8590,
         "stock": 8,
         "imageUrl": "images/sizzle-ring-set.png",
-        "variant": ["Gold", "Rosegold"]
+        "variants": ["Gold", "Rosegold"]
       },
       {
         "id": 4,
@@ -30,7 +30,7 @@
         "price": 6500,
         "stock": 10,
         "imageUrl": "images/cora-necklace.jpg",
-        "variant": ["Silver", "Gold", "Rosegold"]
+        "variants": ["Silver", "Gold", "Rosegold"]
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "price": 9500,
         "stock": 5,
         "imageUrl": "images/regal-set.jpg",
-        "variant": ["Silver", "Gold"]
+        "variants": ["Silver", "Gold"]
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "price": 7590,
         "stock": 10,
         "imageUrl": "images/knotty-set.jpg",
-        "variant": ["Silver", "Gold"]
+        "variants": ["Silver", "Gold"]
       },
       {
         "id": 7,
@@ -54,7 +54,7 @@
         "price": 10550,
         "stock": 6,
         "imageUrl": "images/charmin-set.jpg",
-        "variant": ["Silver", "Gold"]
+        "variants": ["Silver", "Gold"]
       },
       {
         "id": 8,
@@ -62,7 +62,7 @@
         "price": 8500,
         "stock": 0,
         "imageUrl": "images/herb-ring-set.jpg",
-        "variant": ["Silver", "Gold"]
+        "variants": ["Silver", "Gold"]
       },
       {
         "id": 9,
@@ -70,7 +70,7 @@
         "price": 3550,
         "stock": 10,
         "imageUrl": "images/minimal-hoops.jpg",
-        "variant": ["Silver", "Gold", "Rosegold"]
+        "variants": ["Silver", "Gold", "Rosegold"]
       },
 
       {
@@ -79,7 +79,7 @@
         "price": 9500,
         "stock": 5,
         "imageUrl": "images/malia-set.jpg",
-        "variant": ["Silver", "Gold", "Rosegold"]
+        "variants": ["Silver", "Gold", "Rosegold"]
       },
       {
         "id": 11,
@@ -87,7 +87,7 @@
         "price": 9500,
         "stock": 5,
         "imageUrl": "images/maia-set.jpg",
-        "variant": ["Silver", "Gold", "Rosegold"]
+        "variants": ["Silver", "Gold", "Rosegold"]
       },
       {
         "id": 12,
@@ -95,7 +95,7 @@
         "price": 9500,
         "stock": 0,
         "imageUrl": "images/layla-necklace.jpg",
-        "variant": ["Silver", "Gold"]
+        "variants": ["Silver", "Gold"]
       }
     ]
   }
