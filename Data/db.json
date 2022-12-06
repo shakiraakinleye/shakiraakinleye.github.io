@@ -1,101 +1,114 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Zoey Ring Set",
-        "price": 6550,
-        "stock": 7,
-        "imageUrl": "images/zoey-ring-set.jpg",
-        "variants": ["Silver", "Gold", "Rosegold"]
-      },
-      {
-        "id": 2,
-        "name": "Lyra Hoops",
-        "price": 4550,
-        "stock": 10,
-        "imageUrl": "images/lyra-hoops.jpg",
-        "variants": ["Gold"]
-      },
-      {
-        "id": 3,
-        "name": "Sizzle Ring Set",
-        "price": 8590,
-        "stock": 8,
-        "imageUrl": "images/sizzle-ring-set.png",
-        "variants": ["Gold", "Rosegold"]
-      },
-      {
-        "id": 4,
-        "name": "Cora Necklace",
-        "price": 6500,
-        "stock": 10,
-        "imageUrl": "images/cora-necklace.jpg",
-        "variants": ["Silver", "Gold", "Rosegold"]
-      },
-      {
-        "id": 5,
-        "name": "Regal Set",
-        "price": 9500,
-        "stock": 5,
-        "imageUrl": "images/regal-set.jpg",
-        "variants": ["Silver", "Gold"]
-      },
-      {
-        "id": 6,
-        "name": "Knotty Set",
-        "price": 7590,
-        "stock": 10,
-        "imageUrl": "images/knotty-set.jpg",
-        "variants": ["Silver", "Gold"]
-      },
-      {
-        "id": 7,
-        "name": "Charmin' Set",
-        "price": 10550,
-        "stock": 6,
-        "imageUrl": "images/charmin-set.jpg",
-        "variants": ["Silver", "Gold"]
-      },
-      {
-        "id": 8,
-        "name": "Herb Ring Set",
-        "price": 8500,
-        "stock": 0,
-        "imageUrl": "images/herb-ring-set.jpg",
-        "variants": ["Silver", "Gold"]
-      },
-      {
-        "id": 9,
-        "name": "Minimal Hoops",
-        "price": 3550,
-        "stock": 10,
-        "imageUrl": "images/minimal-hoops.jpg",
-        "variants": ["Silver", "Gold", "Rosegold"]
-      },
+  "products": [
+    {
+      "id": 1,
+      "name": "Zoey Ring Set",
+      "price": 6550,
+      "stock": 7,
+      "imageUrl": "images/zoey-ring-set.jpg",
+      "variants": ["Silver", "Gold", "Rosegold"]
+    },
+    {
+      "id": 2,
+      "name": "Lyra Hoops",
+      "price": 4550,
+      "stock": 10,
+      "imageUrl": "images/lyra-hoops.jpg",
+      "variants": ["Gold"]
+    },
+    {
+      "id": 3,
+      "name": "Sizzle Ring Set",
+      "price": 8590,
+      "stock": 8,
+      "imageUrl": "images/sizzle-ring-set.png",
+      "variants": ["Gold", "Rosegold"]
+    },
+    {
+      "id": 4,
+      "name": "Cora Necklace",
+      "price": 6500,
+      "stock": 10,
+      "imageUrl": "images/cora-necklace.jpg",
+      "variants": ["Silver", "Gold", "Rosegold"]
+    },
+    {
+      "id": 5,
+      "name": "Regal Set",
+      "price": 9500,
+      "stock": 5,
+      "imageUrl": "images/regal-set.jpg",
+      "variants": ["Silver", "Gold"]
+    },
+    {
+      "id": 6,
+      "name": "Knotty Set",
+      "price": 7590,
+      "stock": 10,
+      "imageUrl": "images/knotty-set.jpg",
+      "variants": ["Silver", "Gold"]
+    },
+    {
+      "id": 7,
+      "name": "Charmin' Set",
+      "price": 10550,
+      "stock": 6,
+      "imageUrl": "images/charmin-set.jpg",
+      "variants": ["Silver", "Gold"]
+    },
+    {
+      "id": 8,
+      "name": "Herb Ring Set",
+      "price": 8500,
+      "stock": 0,
+      "imageUrl": "images/herb-ring-set.jpg",
+      "variants": ["Silver", "Gold"]
+    },
+    {
+      "id": 9,
+      "name": "Minimal Hoops",
+      "price": 3550,
+      "stock": 10,
+      "imageUrl": "images/minimal-hoops.jpg",
+      "variants": ["Silver", "Gold", "Rosegold"]
+    },
 
-      {
-        "id": 10,
-        "name": "Malia Minimal Set",
-        "price": 9500,
-        "stock": 5,
-        "imageUrl": "images/malia-set.jpg",
-        "variants": ["Silver", "Gold", "Rosegold"]
-      },
-      {
-        "id": 11,
-        "name": "Maia Set",
-        "price": 9500,
-        "stock": 5,
-        "imageUrl": "images/maia-set.jpg",
-        "variants": ["Silver", "Gold", "Rosegold"]
-      },
-      {
-        "id": 12,
-        "name": "Layla Necklace",
-        "price": 9500,
-        "stock": 0,
-        "imageUrl": "images/layla-necklace.jpg",
-        "variants": ["Silver", "Gold"]
-      }
-    ]
+    {
+      "id": 10,
+      "name": "Malia Minimal Set",
+      "price": 9500,
+      "stock": 5,
+      "imageUrl": "images/malia-set.jpg",
+      "variants": ["Silver", "Gold", "Rosegold"]
+    },
+    {
+      "id": 11,
+      "name": "Maia Set",
+      "price": 9500,
+      "stock": 5,
+      "imageUrl": "images/maia-set.jpg",
+      "variants": ["Silver", "Gold", "Rosegold"]
+    },
+    {
+      "id": 12,
+      "name": "Layla Necklace",
+      "price": 9500,
+      "stock": 0,
+      "imageUrl": "images/layla-necklace.jpg",
+      "variants": ["Silver", "Gold"]
+    }
+  ],
+  
+  "deliveries" : {
+    "Lagos Mainland": {
+      "value": 1500
+    },
+    "Lagos Island": {
+      "value": 2000
+    }
+    ,
+    "Lagos Outskirts": {
+      "value": 2500
+    }
   }
+}
