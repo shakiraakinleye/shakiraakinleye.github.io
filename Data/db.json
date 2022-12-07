@@ -100,15 +100,26 @@
   ],
   
   "deliveries" : {
-    "Lagos Mainland": {
+    "Abule Egba": {
+      "value": 2000
+    },
+    "Ajah": {
+      "value": 2500
+    },
+    "Ikeja": {
       "value": 1500
     },
-    "Lagos Island": {
-      "value": 2000
-    }
-    ,
-    "Lagos Outskirts": {
+    "Ikorodu": {
       "value": 2500
+    },
+    "Ikoyi/VI": {
+      "value": 2000
+    },
+    "Lekki": {
+      "value": 2000
+    },
+    "Surulere/Yaba": {
+      "value": 1500
     }
   }
 }
