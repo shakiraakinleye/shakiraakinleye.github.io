@@ -121,5 +121,23 @@
     "Surulere/Yaba": {
       "value": 1500
     }
+  },
+
+  "reviews": {
+    "1": {
+      "name": "Temilade",
+      "message": "The accessories are super stylish and minimalist. The earrings I got are lightweight just as advertised",
+      "state": "Lagos"
+    },
+    "2": {
+      "name": "Nenye",
+      "message": "The necklace set I got is so pretty and long-lasting. I definitely got my money's worth",
+      "state": "Ogun"
+    },
+    "3": {
+      "name": "Faith",
+      "message": "AP is my forever plug! I just love the pieces, they are so pretty and comfy!",
+      "state": "Abuja"
+    }
   }
 }
