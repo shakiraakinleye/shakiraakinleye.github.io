@@ -138,6 +138,16 @@
       "name": "Faith",
       "message": "AP is my forever plug! I just love the pieces, they are so pretty and comfy!",
       "state": "Abuja"
+    },
+    "4": {
+      "name": "Dammy",
+      "message": "Lovely pieces and affordable too!",
+      "state": "Lagos"
+    },
+    "5": {
+      "name": "Bolu",
+      "message": "Nice items, very skin and pocket friendly",
+      "state": "Oyo"
     }
   }
 }
